@@ -1,4 +1,4 @@
-# 🏛️ Mytho
+# 🪶 Mytho
 
 > [README en](README-en.md)
 

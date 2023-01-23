@@ -1,4 +1,4 @@
-# 🏛️ Mytho
+# 🪶 Mytho
 
 **Mytho** `[ˈmɪθɒ]` is a markdown editor named after Greek mythology.
 

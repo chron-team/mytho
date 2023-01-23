@@ -2,6 +2,7 @@
 
 - [v0.1.0](#v010)
 - [v0.1.1](#v011)
+- [v0.2.0](#v020)
 
 ## v0.1.0
 
@@ -40,4 +41,21 @@ Features:
 - Editor
   - Markdown: Markdown convertor
 - Other
+  - Fixed some known issues
+
+## v0.2.0
+
+> 2023.01.23
+
+- File System
+  - Multi-file switching
+- Edit Area
+  - Status Bar: word count, labels
+  - Presentation mode
+  - Export as PDF file
+- Settings
+  - Keyboard shortcuts
+  - Achievement module
+  - Update appearance
+- Others
   - Fixed some known issues
